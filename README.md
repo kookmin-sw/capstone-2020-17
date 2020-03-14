@@ -29,7 +29,7 @@ dhk9464@gmail.com
 ```
 김재원
 
-
+01kimjw@kookmin.ac.kr
 ```
 
 ```
@@ -47,7 +47,7 @@ anstjrgus95@gmail.com
 ```
 이형우
 
-
+pllee96@naver.com
 ```
 
 ### 4. 사용법
