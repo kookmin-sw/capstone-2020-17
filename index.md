@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## 실험실 안전교육 VR
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 프로젝트 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+VR(Virtual Reality, 가상 현실) 기술은 게임 및 엔터테인먼트 뿐만 아니라 교육 분야의 혁신 기술로 떠오르고 있습니다. VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능하게 함으로써, 교육의 시∙공간적 범위를 확장하는 기능을 수행할 수 있습니다. 본 프로젝트에서는 이러한 VR의 특장점을 이용하여 새로운 실험실 안전교육 시스템을 구현합니다.
 
-### Markdown
+### 소개 영상
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+추가 예정
 
-```markdown
-Syntax highlighted code block
+### 팀 소개
 
-# Header 1
-## Header 2
-### Header 3
+```
+윤종영 교수님
 
-- Bulleted
-- List
+캡스톤디자인I 지도 교수
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+jongyung@kookmin.ac.kr
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+김동현
 
-### Jekyll Themes
+팀장
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+dhk9464@gmail.com
+```
 
-### Support or Contact
+```
+김재원
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+01kimjw@kookmin.ac.kr
+```
+
+```
+문석현
+
+anstjrgus95@gmail.com
+```
+
+```
+양성원
+
+2014sw@kookmin.ac.kr
+```
+
+```
+이형우
+
+pllee96@naver.com
+```
+
+
