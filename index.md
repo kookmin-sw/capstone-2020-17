@@ -1,4 +1,5 @@
-![VR LOGO(MADE BY 2014sw@kookmin ac kr)](https://user-images.githubusercontent.com/42829348/76791228-bdfebb80-6803-11ea-9bd7-4fed60f5f71e.jpg)
+![VR1](https://user-images.githubusercontent.com/42829348/76791614-9fe58b00-6804-11ea-8a86-6af031ee9b87.png)
+
 ## 실험실 안전교육 VR
 
 
