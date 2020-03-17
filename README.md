@@ -1,12 +1,12 @@
 ![SAFE LAB](https://user-images.githubusercontent.com/42829348/76893215-53b34d00-68cf-11ea-9f8d-e55bb2756a2e.jpg)
 
-![VR1](https://user-images.githubusercontent.com/42829348/76791614-9fe58b00-6804-11ea-8a86-6af031ee9b87.png)
+
 
 
 # 실험실 안전교육 VR
 
 ### 1. 프로젝트 소개
-
+![VR1](https://user-images.githubusercontent.com/42829348/76791614-9fe58b00-6804-11ea-8a86-6af031ee9b87.png)
  **VR(Virtual Reality, 가상 현실)** 기술은 게임 및 엔터테인먼트 뿐만 아니라 교육 분야의 혁신 기술로 떠오르고 있습니다.
 VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능하게 함으로써, 교육의 시∙공간적 범위를 확장하는 기능을 수행할 수 있습니다.
 
