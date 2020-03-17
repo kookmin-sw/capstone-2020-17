@@ -3,7 +3,7 @@
 
 
 
-# 실험실 안전교육 VR
+# 세이프 랩 : 실험실 안전교육 VR
 
 ### 1. 프로젝트 소개
 ![VR1](https://user-images.githubusercontent.com/42829348/76791614-9fe58b00-6804-11ea-8a86-6af031ee9b87.png)
