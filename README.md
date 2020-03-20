@@ -47,11 +47,11 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 지도 교수님 : 윤종영 교수님 <br>
 :mailbox_with_mail: : jongyung@kookmin.ac.kr
 ### III. Abstract
-Virtual Reality (VR) technology is emerging as an innovation in education as well as gaming and entertainment.<br>
+**Virtual Reality (VR) technology** is emerging as an innovation in education as well as gaming and entertainment.<br>
 VR makes it possible to indirectly experience a situation that is difficult to implement, so it can perform the function of expanding the spatial and temporal scope of education.<br>
-This project emphasizes the importance and necessity of safety education by taking advantage of these features of VR, seeing it with your own eyes, listening to it and experiencing it directly in virtual reality. <br>
-We develop a VR lab safety education system that can reduce the burden and burden of students on education.<br>
-The ultimate goal is to prevent lab safety accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.<br>
+This project emphasizes the importance and necessity of safety education by taking advantage of these features of VR, seeing it with your own eyes, listening and experiencing it directly in virtual reality. <br>
+We develop a **VR lab safety education system** that can reduce the burden of students on education.<br>
+The ultimate goal is to prevent accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.<br>
 ### IV. 소개 영상
 
 ### V. 결과 영상
