@@ -18,14 +18,14 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 :smiley: 이름 : Project Leader 김동현<br>
 :electric_plug: 역할 : Project Managed/Unity Graphics Optimization Task<br>
 :mailbox_with_mail: 이메일: dhk9464@gmail.com   
-***
+
 
 ***
 ![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139918-2b884180-6abb-11ea-9cd5-3db38e06887b.jpg)<br>
 :smiley: 이름 : 김재원<br>
 :electric_plug: 역할 : Data Base Construction/Unity C# Programming Task<br>
 :mailbox_with_mail: 이메일: 01kimjw@kookmin.ac.kr   
-***
+
 
 ***
 ![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)<br>
