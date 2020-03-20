@@ -24,8 +24,7 @@ jongyung@kookmin.ac.kr
 
 ```
 김동현
-![수정본 김동현](./profile/수정본 김동현.jpg)
-
+![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139576-ddbf0980-6ab9-11ea-9ce7-9ebc5e5c31ee.jpg)
 팀장
 
 dhk9464@gmail.com
@@ -33,25 +32,25 @@ dhk9464@gmail.com
 
 ```
 김재원
-
+![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139605-f92a1480-6ab9-11ea-932f-18c100a9a599.jpg)
 01kimjw@kookmin.ac.kr
 ```
 
 ```
 문석현
-
+![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139637-1b239700-6aba-11ea-9395-2c023e53020f.jpg)
 anstjrgus95@gmail.com
 ```
 
 ```
 양성원
-
+![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139655-28408600-6aba-11ea-9e39-b13e021147eb.jpg)
 2014sw@kookmin.ac.kr
 ```
 
 ```
 이형우
-
+![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139667-38586580-6aba-11ea-98a4-c2f4af51f653.jpg)
 pllee96@naver.com
 ```
 
