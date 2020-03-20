@@ -13,26 +13,26 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 궁극적인 목표는 실험실 안전 교육에 대한 체험성을 극대화하여 학생들의 능동적인 학습을 유도하고, 분야에 맞는 실질적인 훈련을 가능하게 하여 실험실 안전 사고를 예방하는 것입니다.
 
 ### II. 팀 소개
-
+***
 ![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139872-009ded80-6abb-11ea-8afb-6df7b258adcf.jpg)<br>
 :smiley: 이름 : Project Leader 김동현<br>
 :electric_plug: 역할 : Project Managed/Unity Graphics Optimization Task<br>
 :mailbox_with_mail: 이메일: dhk9464@gmail.com   
 ***
 
-
+***
 ![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139918-2b884180-6abb-11ea-9cd5-3db38e06887b.jpg)<br>
 :smiley: 이름 : 김재원<br>
 :electric_plug: 역할 : Data Base Construction/Unity C# Programming Task<br>
 :mailbox_with_mail: 이메일: 01kimjw@kookmin.ac.kr   
 ***
 
-
+***
 ![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)<br>
 :smiley: 이름 : 문석현<br>
 :electric_plug: 역할 : Screenwriter/Unity C# Programming Task<br>
-:mailbox_with_mail: 이메일: anstjrgus95@gmail.com
-
+:mailbox_with_mail: 이메일: anstjrgus95@gmail.com   
+***
 
 ![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)<br>
 :smiley: 이름 : 양성원<br>
@@ -50,6 +50,7 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 ![윤종영교수님](https://user-images.githubusercontent.com/42829348/77141422-3396b000-6ac0-11ea-8438-773f0cdf3430.png)<br>
 지도 교수님 성함: 윤종영 교수<br>
 :mailbox_with_mail: 이메일: jongyung@kookmin.ac.kr
+***
 ### III. Abstract
 **Virtual Reality (VR) technology** is emerging as an innovation in education as well as gaming and entertainment.<br>
 VR makes it possible to indirectly experience a situation that is difficult to implement, so it can perform the function of expanding the spatial and temporal scope of education.<br>
