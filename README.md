@@ -29,11 +29,10 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 
 ***
 ![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)<br>
-```
 :smiley: 이름 : 문석현<br>
 :electric_plug: 역할 : Screenwriter/Unity C# Programming Task<br>
 :mailbox_with_mail: 이메일: anstjrgus95@gmail.com   
-```
+
 ***
 
 ![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)<br>
