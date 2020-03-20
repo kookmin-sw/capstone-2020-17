@@ -24,7 +24,7 @@ jongyung@kookmin.ac.kr
 
 ```
 김동현
-![수정본 김동현](./image/profile/수정본 김동현.jpg)
+![수정본 김동현](./profile/수정본 김동현.jpg)
 
 팀장
 
