@@ -1,8 +1,6 @@
 ![SAFE LAB](https://user-images.githubusercontent.com/42829348/76893215-53b34d00-68cf-11ea-9f8d-e55bb2756a2e.jpg)
 
-# :round_pushpin: 세이프 랩 : 실험실 안전교육 VR :round_pushpin:
-
-팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-17/ <br>
+# 세이프 랩 : 실험실 안전교육 VR
 
 ### I. 프로젝트 개요
 ![VR1](https://user-images.githubusercontent.com/42829348/76791614-9fe58b00-6804-11ea-8a86-6af031ee9b87.png) <br>
@@ -14,50 +12,40 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 
 ### II. 팀 소개
 
-```
-윤종영 교수님
+![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139872-009ded80-6abb-11ea-8afb-6df7b258adcf.jpg)<br>
+팀장 김동현<br>
+:electric_plug:<br>
+:mailbox_with_mail: : dhk9464@gmail.com
 
-캡스톤디자인I 지도 교수
 
-jongyung@kookmin.ac.kr
-```
+![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139918-2b884180-6abb-11ea-9cd5-3db38e06887b.jpg)<br>
+김재원<br>
+:electric_plug:<br>
+:mailbox_with_mail: : 01kimjw@kookmin.ac.kr
 
-```
-김동현
 
-팀장
+![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)<br>
+문석현<br>
+:electric_plug:<br>
+:mailbox_with_mail: : anstjrgus95@gmail.com
 
-dhk9464@gmail.com
-```
 
-```
-김재원
+![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)<br>
+양성원<br>
+:electric_plug:<br>
+:mailbox_with_mail: : 2014sw@kookmin.ac.kr
 
-01kimjw@kookmin.ac.kr
-```
 
-```
-문석현
+![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139962-4e1a5a80-6abb-11ea-9d2f-32406a6c87cc.jpg)<br>
+이형우<br>
+:electric_plug:<br>
+:mailbox_with_mail: : pllee96@gmail.com <br>
 
-anstjrgus95@gmail.com
-```
-
-```
-양성원
-
-2014sw@kookmin.ac.kr
-```
-
-```
-이형우
-
-pllee96@naver.com
-```
-
+![윤종영교수님](https://user-images.githubusercontent.com/42829348/77141422-3396b000-6ac0-11ea-8438-773f0cdf3430.png)<br>
+지도 교수님 : 윤종영 교수님 <br>
+:mailbox_with_mail: : jongyung@kookmin.ac.kr
 ### III. Abstract
 
-
 ### IV. 소개 영상
-
 
 ### V. 결과 영상
