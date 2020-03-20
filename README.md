@@ -24,34 +24,38 @@ jongyung@kookmin.ac.kr
 
 
 
-![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139576-ddbf0980-6ab9-11ea-9ce7-9ebc5e5c31ee.jpg)
-김동현
-팀장
-dhk9464@gmail.com
+![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139872-009ded80-6abb-11ea-8afb-6df7b258adcf.jpg)
+팀장 김동현<br>
+:electric_plug:<br>
+:mailbox_with_mail: dhk9464@gmail.com
 
 
 
-![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139605-f92a1480-6ab9-11ea-932f-18c100a9a599.jpg)
-김재원
-01kimjw@kookmin.ac.kr
+![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139918-2b884180-6abb-11ea-9cd5-3db38e06887b.jpg)
+김재원<br>
+:electric_plug:<br>
+:mailbox_with_mail: 01kimjw@kookmin.ac.kr
 
 
 
-![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139637-1b239700-6aba-11ea-9395-2c023e53020f.jpg)
-문석현
-anstjrgus95@gmail.com
+![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)
+문석현<br>
+:electric_plug:<br>
+:mailbox_with_mail: anstjrgus95@gmail.com
 
 
 
-![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139655-28408600-6aba-11ea-9e39-b13e021147eb.jpg)
-양성원
-2014sw@kookmin.ac.kr
+![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)
+양성원<br>
+:electric_plug:<br>
+:mailbox_with_mail: 2014sw@kookmin.ac.kr
 
 
 
-![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139667-38586580-6aba-11ea-98a4-c2f4af51f653.jpg)
-이형우
-pllee96@naver.com
+![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139962-4e1a5a80-6abb-11ea-9d2f-32406a6c87cc.jpg)
+이형우<br>
+:electric_plug:<br>
+:mailbox_with_mail: pllee96@naver.com
 
 
 ### III. Abstract
