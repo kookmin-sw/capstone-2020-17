@@ -55,7 +55,7 @@ jongyung@kookmin.ac.kr
 ![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139962-4e1a5a80-6abb-11ea-9d2f-32406a6c87cc.jpg)<br>
 이형우<br>
 :electric_plug:<br>
-:mailbox_with_mail: pllee96@naver.com
+:mailbox_with_mail: pllee96@gmail.com
 
 
 ### III. Abstract
