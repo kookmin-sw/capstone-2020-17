@@ -1,4 +1,4 @@
-![SAFE LAB](https://user-images.githubusercontent.com/42829348/76893215-53b34d00-68cf-11ea-9f8d-e55bb2756a2e.jpg)
+![2020-17](https://user-images.githubusercontent.com/42829348/77228754-d5a3be80-6bcc-11ea-9180-cd30104c96ab.jpg)
 
 # :round_pushpin: SAFE LAB : 실험실 안전교육 VR :round_pushpin:
 
