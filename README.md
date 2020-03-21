@@ -38,7 +38,7 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 ![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)<br>
 ***
 :smiley: 이름 : 양성원<br>
-:electric_plug: 역할 : UI Production and Configuration/Unity Graphics Optimization Task<br>
+:electric_plug: 역할 : UI Production and Configuration/Unity Graphics Optimization Task & Design Executive<br>
 :mailbox_with_mail: 이메일: 2014sw@kookmin.ac.kr   
 ***
 
