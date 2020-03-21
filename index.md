@@ -1,8 +1,7 @@
 ![2020-17](https://user-images.githubusercontent.com/42829348/77228754-d5a3be80-6bcc-11ea-9180-cd30104c96ab.jpg)
 
-# SAFE LAB : 실험실 안전교육 VR
+# SAFE LAB : 실험실 안전교육 VR 
 
-팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-17/ <br>
 
 ### I. 프로젝트 개요
  ![TEAM LOGO-VR](https://user-images.githubusercontent.com/42829348/77231036-ac3e5f00-6bdb-11ea-9b26-106f53e9e7c6.jpg)
@@ -14,45 +13,45 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 ### II. 팀 소개
 
 ![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139872-009ded80-6abb-11ea-8afb-6df7b258adcf.jpg)<br>
-***
+
 이름 : 김동현<br>
 역할 : Project leader/Unity C# programming task<br>
 이메일: dhk9464@gmail.com   
-***
+
 
 ![수정본 김재원](https://user-images.githubusercontent.com/42829348/77139918-2b884180-6abb-11ea-9cd5-3db38e06887b.jpg)<br>
-***
+
 이름 : 김재원<br>
 역할 : Database construction/Unity C# programming task<br>
 이메일: 01kimjw@kookmin.ac.kr   
-***
+
 
 ![수정본 문석현](https://user-images.githubusercontent.com/42829348/77139931-34791300-6abb-11ea-80c0-c236d9c64606.jpg)<br>
-***
+
 이름 : 문석현<br>
 역할 : Scenario writer/Unity C# programming task<br>
 이메일: anstjrgus95@gmail.com   
-***
+
 
 ![수정본 양성원](https://user-images.githubusercontent.com/42829348/77139951-435fc580-6abb-11ea-8fa8-16f068c19113.jpg)<br>
-***
+
 이름 : 양성원<br>
 역할 : UI Production and Configuration/Unity Graphics Optimization Task & Design Executive<br>
 이메일: 2014sw@kookmin.ac.kr   
-***
+
 
 ![수정본 이형우](https://user-images.githubusercontent.com/42829348/77139962-4e1a5a80-6abb-11ea-9d2f-32406a6c87cc.jpg)<br>
-***
+
 이름 : 이형우<br>
 역할 : Map (lab) design/Audio design/Project documentation<br>
 이메일: pllee96@gmail.com    
-***
+
 
 ![윤종영교수님](https://user-images.githubusercontent.com/42829348/77141422-3396b000-6ac0-11ea-8438-773f0cdf3430.png)<br>
-***
+
 지도 교수님 성함: 윤종영 교수<br>
 이메일: jongyung@kookmin.ac.kr
-***
+
 ### III. Abstract
 **Virtual Reality (VR) technology** is emerging as an innovation in education as well as gaming and entertainment.<br>
 VR makes it possible to indirectly experience a situation that is difficult to implement, so it can perform the function of expanding the spatial and temporal scope of education.<br>
