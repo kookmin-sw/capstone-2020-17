@@ -1,7 +1,7 @@
 ![2020-17 수정본](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)
 
 
-# :round_pushpin: SAFE LAB : 실험실 안전교육 VR :round_pushpin:
+# :round_pushpin: SAFE LAB: VR 실험실 안전교육 :round_pushpin:
 
 팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-17/ <br>
 
