@@ -1,6 +1,3 @@
-![2020-17 수정본](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)
-
-
 # :round_pushpin: SAFE LAB: VR 실험실 안전교육 :round_pushpin:
 
 팀페이지 주소 : https://kookmin-sw.github.io/capstone-2020-17/ <br>
@@ -60,7 +57,9 @@ VR makes it possible to indirectly experience a situation that is difficult to i
 This project emphasizes the importance and necessity of safety education by taking advantage of these features of VR, seeing it with your own eyes, listening and experiencing it directly in virtual reality. <br>
 We develop a **VR lab safety education system** that can reduce the burden of students on education.<br>
 The ultimate goal is to prevent accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.<br>
+
 ### IV. 소개 영상
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/zFU-n18M7nE)
 
 ### V. 결과 영상
 - 2020 . 06 . 05 upload-
