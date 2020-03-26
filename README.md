@@ -8,6 +8,7 @@
 VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능하게 함으로써, 교육의 시∙공간적 범위를 확장하는 기능을 수행할 수 있습니다.<br>
 본 프로젝트에서는 VR의 이러한 특장점을 활용하여 눈으로 보고 귀로 들으며 가상 현실 내에서 직접 체험함으로써 안전 교육의 중요성과 필요성을 더욱 강조하고, 또한 현 실험실 안전 교육 시스템에 흥미를 느끼지 못하는 학생들에게 몰입감을 주면서 안전 교육에 대한 학생들의 어려움과 부담감을 줄일 수 있는 **VR 실험실 안전 교육 시스템**을 개발합니다. <br> 
 궁극적인 목표는 실험실 안전 교육에 대한 체험성을 극대화하여 학생들의 능동적인 학습을 유도하고, 분야에 맞는 실질적인 훈련을 가능하게 하여 실험실 안전 사고를 예방하는 것입니다.
+<br>
 
 ### II. 팀 소개
 
@@ -51,15 +52,18 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 지도 교수님 성함: 윤종영 교수<br>
 :mailbox_with_mail: 이메일: jongyung@kookmin.ac.kr
 ***
+<br>
+
 ### III. Abstract
 **Virtual Reality (VR) technology** is emerging as an innovation in education as well as gaming and entertainment.<br>
 VR makes it possible to indirectly experience a situation that is difficult to implement, so it can perform the function of expanding the spatial and temporal scope of education.<br>
 This project emphasizes the importance and necessity of safety education by taking advantage of these features of VR, seeing it with your own eyes, listening and experiencing it directly in virtual reality. <br>
 We develop a **VR lab safety education system** that can reduce the burden of students on education.<br>
-The ultimate goal is to prevent accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.<br>
+The ultimate goal is to prevent accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.
+<br>
 
 ### IV. 소개 영상
 [![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/zFU-n18M7nE)
-
+<br>
 ### V. 결과 영상
 - 2020 . 06 . 05 upload-
