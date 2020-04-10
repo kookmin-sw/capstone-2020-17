@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - ONSPSettings
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
@@ -53,13 +55,15 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11362}
+      Script: {instanceID: 12910}
     - Class: 114
-      Script: {instanceID: 11502}
+      Script: {instanceID: 13050}
     - Class: 114
-      Script: {instanceID: 12282}
+      Script: {instanceID: 13586}
     - Class: 114
-      Script: {instanceID: 13496}
+      Script: {instanceID: 13818}
+    - Class: 114
+      Script: {instanceID: 15004}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1625,6 +1629,30 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 057d2498a7daf7a81d66f440a3c72207
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SPAWNER
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToonPeople
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DESTROYER
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraTP
   platform: 13
   scenePathNames:
   - Assets/Scenes/Laboratory_Room 1.unity
