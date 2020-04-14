@@ -1,8 +1,11 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - ControllerSelection.OVRInputModule
     - ControllerSelection.OVRPointerVisualizer
+    - ControllerSelection.OVRRaycaster
     - ONSPSettings
+    - UIInteraction
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
@@ -32,8 +35,83 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/Laboratory_Room 1.unity:
+    Assets/Scenes/Lab1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11412}
+    - Class: 114
+      Script: {instanceID: 11504}
+    - Class: 114
+      Script: {instanceID: 11562}
+    - Class: 114
+      Script: {instanceID: 11780}
+    - Class: 114
+      Script: {instanceID: 12056}
+    - Class: 114
+      Script: {instanceID: 12384}
+    - Class: 114
+      Script: {instanceID: 12548}
+    - Class: 114
+      Script: {instanceID: 12670}
+    - Class: 114
+      Script: {instanceID: 13272}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 215
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    Assets/Scenes/MainSelect.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -73,37 +151,45 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11390}
+      Script: {instanceID: 11332}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11412}
     - Class: 114
-      Script: {instanceID: 11752}
+      Script: {instanceID: 11504}
     - Class: 114
-      Script: {instanceID: 12024}
+      Script: {instanceID: 11562}
     - Class: 114
-      Script: {instanceID: 12096}
+      Script: {instanceID: 11584}
     - Class: 114
-      Script: {instanceID: 12254}
+      Script: {instanceID: 11644}
     - Class: 114
-      Script: {instanceID: 12348}
+      Script: {instanceID: 12056}
     - Class: 114
-      Script: {instanceID: 12508}
+      Script: {instanceID: 12130}
     - Class: 114
-      Script: {instanceID: 12630}
+      Script: {instanceID: 12240}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 12290}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 12384}
     - Class: 114
-      Script: {instanceID: 13222}
+      Script: {instanceID: 12724}
     - Class: 114
-      Script: {instanceID: 13650}
+      Script: {instanceID: 12908}
     - Class: 114
-      Script: {instanceID: 13858}
+      Script: {instanceID: 13248}
     - Class: 114
-      Script: {instanceID: 14010}
+      Script: {instanceID: 13268}
     - Class: 114
-      Script: {instanceID: 30300}
+      Script: {instanceID: 13686}
+    - Class: 114
+      Script: {instanceID: 13710}
+    - Class: 114
+      Script: {instanceID: 13782}
+    - Class: 114
+      Script: {instanceID: 13922}
+    - Class: 114
+      Script: {instanceID: 14076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -112,13 +198,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
-    - Class: 143
-      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 215
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -227,6 +317,12 @@ ScriptsOnlyBuild:
     className: LocomotionSampleSupport
   - hash:
       serializedVersion: 2
+      Hash: 782ecac3a0f9a9d22a4205fec2fd8f6f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRPointerVisualizer
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Oculus.Platform.Samples.VrHoops
@@ -249,6 +345,12 @@ ScriptsOnlyBuild:
     assemblyName: Oculus.VR.dll
     namespaceName: 
     className: OVRDebugHeadController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BackButtonLogic
   - hash:
       serializedVersion: 2
       Hash: a5781dc71a671b1ad2b38de19f24b71f
@@ -443,6 +545,12 @@ ScriptsOnlyBuild:
     className: OvrAvatarSDKManager
   - hash:
       serializedVersion: 2
+      Hash: 12beffd532f9c188df50d53384ec35da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRPhysicsRaycaster
+  - hash:
+      serializedVersion: 2
       Hash: e7dac3c9100823d6e750582bb7d6b5f8
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -507,6 +615,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: d129870b34a410a865be3d82120871ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RawInteraction
   - hash:
       serializedVersion: 2
       Hash: f567adef2b413f8c95c4f966001c7e25
@@ -993,6 +1107,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: OculusSampleFramework
     className: ColorGrabbable
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRRaycaster
   - hash:
       serializedVersion: 2
       Hash: 6d39c48b69b486476ba524949d845693
@@ -1499,10 +1619,22 @@ ScriptsOnlyBuild:
     className: OVRMeshRenderer
   - hash:
       serializedVersion: 2
+      Hash: 7a6d1793f9c4b9499a0b1baaf6adfaa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRRawRaycaster
+  - hash:
+      serializedVersion: 2
       Hash: bd3f0ca738703903e759f77536ed74fd
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: TMP_FrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 306b2ba5106fb001b6eebac631126143
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: PhysicsInteraction
   - hash:
       serializedVersion: 2
       Hash: a1ca1237bad0f30ea5ba8f4060929114
@@ -1601,6 +1733,12 @@ ScriptsOnlyBuild:
     className: OVRGridCube
   - hash:
       serializedVersion: 2
+      Hash: cb284fadb8e39645038ce8579603d518
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIInteraction
+  - hash:
+      serializedVersion: 2
       Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
@@ -1653,6 +1791,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: Benchmark02
+  - hash:
+      serializedVersion: 2
+      Hash: f6663f59c4a6a3b5c4192715ebbadecd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRInputModule
   - hash:
       serializedVersion: 2
       Hash: 76b80dd1b65f63dfa63cf0ea8a906f3a
@@ -1895,6 +2039,12 @@ ScriptsOnlyBuild:
     className: WindmillController
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenuInteraction
+  - hash:
+      serializedVersion: 2
       Hash: c3bd598ebf26a1734f4e48c8dfe999af
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1979,65 +2129,72 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 782ecac3a0f9a9d22a4205fec2fd8f6f
+      Hash: 7e6f3cec810b51366c6e857ffaf3cdbc
     assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: OVRPointerVisualizer
+    namespaceName: 
+    className: PanelManager
+  - hash:
+      serializedVersion: 2
+      Hash: 51f8d470cac09a8e32d2d547963d8efc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResizePanel
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: BackButtonLogic
+    className: ActiveStateToggler
   - hash:
       serializedVersion: 2
-      Hash: 12beffd532f9c188df50d53384ec35da
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: OVRPhysicsRaycaster
-  - hash:
-      serializedVersion: 2
-      Hash: d129870b34a410a865be3d82120871ca
+      Hash: a72b59fc029116362b3317d54b5ec7e0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: RawInteraction
+    className: TiltWindow
   - hash:
       serializedVersion: 2
-      Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: OVRRaycaster
-  - hash:
-      serializedVersion: 2
-      Hash: 7a6d1793f9c4b9499a0b1baaf6adfaa4
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: OVRRawRaycaster
-  - hash:
-      serializedVersion: 2
-      Hash: 306b2ba5106fb001b6eebac631126143
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: PhysicsInteraction
-  - hash:
-      serializedVersion: 2
-      Hash: cb284fadb8e39645038ce8579603d518
+      Hash: 699582968bf572a4f5f4654f266dca73
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: UIInteraction
-  - hash:
-      serializedVersion: 2
-      Hash: f6663f59c4a6a3b5c4192715ebbadecd
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: ControllerSelection
-    className: OVRInputModule
+    className: DropMe
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: MainMenuInteraction
+    className: ShowSliderValue
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 369421eaa26a31b7617fb067c6e27c2e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragMe
+  - hash:
+      serializedVersion: 2
+      Hash: 09fe53f599e1b043b2ab790cced57532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollDetailTexture
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ApplicationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeColor
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Laboratory_Room 1.unity
+  - Assets/Scenes/MainSelect.unity
+  - Assets/Scenes/Lab1.unity
   playerPath: C:/platform-tools/test.apk

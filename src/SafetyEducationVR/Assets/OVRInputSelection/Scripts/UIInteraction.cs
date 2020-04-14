@@ -52,4 +52,17 @@ public class UIInteraction : MonoBehaviour {
     public void OnBackToMenu() {
         SceneManager.LoadScene("main", LoadSceneMode.Single);
     }
+
+    public void GoToLab1()
+    {
+        SceneManager.LoadScene("Lab1", LoadSceneMode.Single);
+    }
+    public void GoToLab2()
+    {
+        SceneManager.LoadScene("Lab2", LoadSceneMode.Single);
+    }
+    public void GoToLab3()
+    {
+        SceneManager.LoadScene("Lab3", LoadSceneMode.Single);
+    }
 }
