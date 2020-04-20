@@ -3,11 +3,15 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ControllerSelection.OVRInputModule
     - ControllerSelection.OVRPointerVisualizer
+    - ControllerSelection.OVRRawRaycaster
     - ControllerSelection.OVRRaycaster
+    - FadeInOutUI
     - FadeInUI
     - FadeOutUI1
+    - FadeOutUI2
     - Interaction
     - ONSPSettings
+    - TriggerForFlammable
     - TriggerForPhone
     - UIInteraction
     Oculus.VR.Editor.dll:
@@ -62,6 +66,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -74,45 +80,57 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11756}
+      Script: {instanceID: 11336}
     - Class: 114
-      Script: {instanceID: 11836}
+      Script: {instanceID: 11416}
     - Class: 114
-      Script: {instanceID: 11928}
+      Script: {instanceID: 11508}
     - Class: 114
-      Script: {instanceID: 11990}
+      Script: {instanceID: 11570}
     - Class: 114
-      Script: {instanceID: 12012}
+      Script: {instanceID: 11592}
     - Class: 114
-      Script: {instanceID: 12072}
+      Script: {instanceID: 11652}
     - Class: 114
-      Script: {instanceID: 12484}
+      Script: {instanceID: 12064}
     - Class: 114
-      Script: {instanceID: 12670}
+      Script: {instanceID: 12220}
     - Class: 114
-      Script: {instanceID: 12814}
+      Script: {instanceID: 12252}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 13338}
+      Script: {instanceID: 12648}
     - Class: 114
-      Script: {instanceID: 14086}
+      Script: {instanceID: 12738}
     - Class: 114
-      Script: {instanceID: 14214}
+      Script: {instanceID: 12924}
     - Class: 114
-      Script: {instanceID: 226320}
+      Script: {instanceID: 13508}
     - Class: 114
-      Script: {instanceID: 277062}
+      Script: {instanceID: 13672}
     - Class: 114
-      Script: {instanceID: 342796}
+      Script: {instanceID: 13676}
     - Class: 114
-      Script: {instanceID: 357700}
+      Script: {instanceID: 13802}
+    - Class: 114
+      Script: {instanceID: 14216}
+    - Class: 114
+      Script: {instanceID: 42696}
+    - Class: 114
+      Script: {instanceID: 204300}
+    - Class: 114
+      Script: {instanceID: 261234}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -178,45 +196,45 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11756}
+      Script: {instanceID: 11336}
     - Class: 114
-      Script: {instanceID: 11836}
+      Script: {instanceID: 11416}
     - Class: 114
-      Script: {instanceID: 11928}
+      Script: {instanceID: 11508}
     - Class: 114
-      Script: {instanceID: 11990}
+      Script: {instanceID: 11570}
     - Class: 114
-      Script: {instanceID: 12012}
+      Script: {instanceID: 11592}
     - Class: 114
-      Script: {instanceID: 12072}
+      Script: {instanceID: 11652}
     - Class: 114
-      Script: {instanceID: 12484}
+      Script: {instanceID: 12064}
     - Class: 114
-      Script: {instanceID: 12558}
+      Script: {instanceID: 12138}
     - Class: 114
-      Script: {instanceID: 12670}
+      Script: {instanceID: 12252}
     - Class: 114
-      Script: {instanceID: 12720}
+      Script: {instanceID: 12302}
     - Class: 114
-      Script: {instanceID: 12814}
+      Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 13154}
+      Script: {instanceID: 12738}
     - Class: 114
-      Script: {instanceID: 13338}
+      Script: {instanceID: 12924}
     - Class: 114
-      Script: {instanceID: 13678}
+      Script: {instanceID: 13264}
     - Class: 114
-      Script: {instanceID: 13698}
+      Script: {instanceID: 13284}
     - Class: 114
-      Script: {instanceID: 14118}
+      Script: {instanceID: 13706}
     - Class: 114
-      Script: {instanceID: 14142}
+      Script: {instanceID: 13730}
     - Class: 114
-      Script: {instanceID: 14214}
+      Script: {instanceID: 13802}
     - Class: 114
-      Script: {instanceID: 14354}
+      Script: {instanceID: 13942}
     - Class: 114
-      Script: {instanceID: 14508}
+      Script: {instanceID: 14096}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -782,6 +800,12 @@ ScriptsOnlyBuild:
     className: AudioManager
   - hash:
       serializedVersion: 2
+      Hash: 741cb3f04827c87a16cf3bb600ea428f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FadeOutUI1
+  - hash:
+      serializedVersion: 2
       Hash: e6f0efd0e20669d577e9d21526b3d3f9
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -1064,6 +1088,12 @@ ScriptsOnlyBuild:
     className: CameraController
   - hash:
       serializedVersion: 2
+      Hash: bef74fd3a185cac6c039f35ff1e255ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TriggerForPhone
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Oculus.Platform.Samples.VrHoops
@@ -1272,6 +1302,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: da36c159910ae9323699185091ab8095
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
   - hash:
       serializedVersion: 2
       Hash: 8f71d2ab3258f223c82a0616125cd43f
@@ -1760,6 +1796,12 @@ ScriptsOnlyBuild:
     className: GraphicRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 741cb3f04827c87a16cf3bb600ea428f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FadeInUI
+  - hash:
+      serializedVersion: 2
       Hash: 8a874a8207a7664bdf44e61f28717254
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -2066,6 +2108,12 @@ ScriptsOnlyBuild:
     className: TestRunCallbackListener
   - hash:
       serializedVersion: 2
+      Hash: 4dc3e074d42ba7e81dab704a871ff97a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Interaction
+  - hash:
+      serializedVersion: 2
       Hash: 4ef0f7d42cdb13479386e1f049c315aa
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner
@@ -2180,34 +2228,22 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: da36c159910ae9323699185091ab8095
+      Hash: 741cb3f04827c87a16cf3bb600ea428f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: GameManager
+    className: FadeInOutUI
   - hash:
       serializedVersion: 2
-      Hash: 459f570306fc06b39d91e5ddcdeb1103
+      Hash: 9d13b0acde56a97f2810266236e3b634
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Interaction
+    className: TriggerForFlammable
   - hash:
       serializedVersion: 2
       Hash: 741cb3f04827c87a16cf3bb600ea428f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: FadeOutUI1
-  - hash:
-      serializedVersion: 2
-      Hash: 53ac0cccc90a54f01ad8865e32cbaf71
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TriggerForPhone
-  - hash:
-      serializedVersion: 2
-      Hash: 741cb3f04827c87a16cf3bb600ea428f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: FadeInUI
+    className: FadeOutUI2
   platform: 13
   scenePathNames:
   - Assets/Scenes/MainSelect.unity
