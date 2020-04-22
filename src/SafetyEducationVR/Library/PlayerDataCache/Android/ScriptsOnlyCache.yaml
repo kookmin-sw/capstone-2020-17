@@ -11,6 +11,7 @@ ScriptsOnlyBuild:
     - FadeOutUI2
     - Interaction
     - ONSPSettings
+    - TriggerForFire
     - TriggerForFlammable
     - TriggerForPhone
     - UIInteraction
@@ -103,27 +104,29 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 12648}
+      Script: {instanceID: 12406}
     - Class: 114
-      Script: {instanceID: 12738}
+      Script: {instanceID: 12650}
     - Class: 114
-      Script: {instanceID: 12924}
+      Script: {instanceID: 12740}
     - Class: 114
-      Script: {instanceID: 13508}
+      Script: {instanceID: 12926}
     - Class: 114
-      Script: {instanceID: 13672}
+      Script: {instanceID: 13344}
+    - Class: 114
+      Script: {instanceID: 13512}
     - Class: 114
       Script: {instanceID: 13676}
     - Class: 114
-      Script: {instanceID: 13802}
+      Script: {instanceID: 13680}
     - Class: 114
-      Script: {instanceID: 14216}
+      Script: {instanceID: 13702}
     - Class: 114
-      Script: {instanceID: 42696}
+      Script: {instanceID: 13808}
     - Class: 114
-      Script: {instanceID: 204300}
+      Script: {instanceID: 14222}
     - Class: 114
-      Script: {instanceID: 261234}
+      Script: {instanceID: 14292}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -218,23 +221,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12396}
     - Class: 114
-      Script: {instanceID: 12738}
+      Script: {instanceID: 12740}
     - Class: 114
-      Script: {instanceID: 12924}
+      Script: {instanceID: 12926}
     - Class: 114
-      Script: {instanceID: 13264}
+      Script: {instanceID: 13266}
     - Class: 114
-      Script: {instanceID: 13284}
+      Script: {instanceID: 13286}
     - Class: 114
-      Script: {instanceID: 13706}
+      Script: {instanceID: 13712}
     - Class: 114
-      Script: {instanceID: 13730}
+      Script: {instanceID: 13736}
     - Class: 114
-      Script: {instanceID: 13802}
+      Script: {instanceID: 13808}
     - Class: 114
-      Script: {instanceID: 13942}
+      Script: {instanceID: 13948}
     - Class: 114
-      Script: {instanceID: 14096}
+      Script: {instanceID: 14102}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -962,6 +965,12 @@ ScriptsOnlyBuild:
     className: InteractableRegistry
   - hash:
       serializedVersion: 2
+      Hash: 1f9813494f1eeef85f4304e0957a3264
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TriggerForFire
+  - hash:
+      serializedVersion: 2
       Hash: f41dc612e461acf568bc5ca2f9d3c8ea
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1628,6 +1637,12 @@ ScriptsOnlyBuild:
     className: PlatformManager
   - hash:
       serializedVersion: 2
+      Hash: 741cb3f04827c87a16cf3bb600ea428f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FadeOutUI2
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1818,6 +1833,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
     className: Benchmark04
+  - hash:
+      serializedVersion: 2
+      Hash: 741cb3f04827c87a16cf3bb600ea428f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FadeInOutUI
   - hash:
       serializedVersion: 2
       Hash: 34c971ccf5a4d4c276f7753251cba95d
@@ -2108,7 +2129,7 @@ ScriptsOnlyBuild:
     className: TestRunCallbackListener
   - hash:
       serializedVersion: 2
-      Hash: 4dc3e074d42ba7e81dab704a871ff97a
+      Hash: ce4580dcf219f570bb9dcab88c8639c7
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Interaction
@@ -2174,6 +2195,12 @@ ScriptsOnlyBuild:
     className: SignalEmitter
   - hash:
       serializedVersion: 2
+      Hash: 9d13b0acde56a97f2810266236e3b634
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TriggerForFlammable
+  - hash:
+      serializedVersion: 2
       Hash: 575d7dcc18aad705af08468ac3184f95
     assemblyName: Assembly-CSharp.dll
     namespaceName: QuantumTek.QuantumUI
@@ -2226,24 +2253,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 741cb3f04827c87a16cf3bb600ea428f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: FadeInOutUI
-  - hash:
-      serializedVersion: 2
-      Hash: 9d13b0acde56a97f2810266236e3b634
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TriggerForFlammable
-  - hash:
-      serializedVersion: 2
-      Hash: 741cb3f04827c87a16cf3bb600ea428f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: FadeOutUI2
   platform: 13
   scenePathNames:
   - Assets/Scenes/MainSelect.unity
