@@ -51,14 +51,14 @@ public class UIInteraction : MonoBehaviour {
 
     public void GoToLab1()
     {
-        SceneManager.LoadScene("Lab1", LoadSceneMode.Single);
+        SceneManager.LoadScene("Lab1-1", LoadSceneMode.Single);
     }
     public void GoToLab2()
     {
-        SceneManager.LoadScene("Lab2", LoadSceneMode.Single);
+        SceneManager.LoadScene("Lab2-1", LoadSceneMode.Single);
     }
     public void GoToLab3()
     {
-        SceneManager.LoadScene("Lab3", LoadSceneMode.Single);
+        SceneManager.LoadScene("Lab3-1", LoadSceneMode.Single);
     }
 }

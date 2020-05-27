@@ -18,6 +18,8 @@ public class Interaction1_2 : MonoBehaviour
     public Vector3 destination1;
     public Vector3 destination2;
     public Vector3 destination3;
+    public Vector3 destination4;
+    public Vector3 destination5;
 
     public void SelectBtn1()
     {
@@ -54,7 +56,15 @@ public class Interaction1_2 : MonoBehaviour
     }
     public void SelectBtn_floor3()
     {
+        ui_floor[2].SetActive(false);
+        // 계단을 통해 올라가기
         StartCoroutine("MoveCam7");
+    }
+    public void SelectBtn_floor4()
+    {
+        ui_floor[3].SetActive(false);
+        // 탈출
+        StartCoroutine("MoveCamExit");
     }
 
 
@@ -85,27 +95,39 @@ public class Interaction1_2 : MonoBehaviour
     }
     public IEnumerator MoveCam4()
     {
+        yield return new WaitForSeconds(2.0f);
         iTween.MoveBy(vrCam, iTween.Hash("z", -3.0f, "easeType", iTween.EaseType.easeInOutSine, "time", 7.0f)); // 계단 앞까지 이동
-        yield return new WaitForSeconds(8.0f);
+        yield return new WaitForSeconds(7.0f);
         iTween.MoveTo(vrCam, iTween.Hash("position", destination1, "easeType", iTween.EaseType.easeInOutSine, "time", 10.0f));   // 한 층 아래로 이동
 
     }
     public IEnumerator MoveCam5()
     {
         // 불길 때문에 다시 돌아감
-        yield return new WaitForSeconds(3.0f);
+        yield return new WaitForSeconds(2.0f);
         iTween.MoveTo(vrCam, iTween.Hash("position", destination2, "easeType", iTween.EaseType.easeInOutSine, "time", 10.0f));
-        yield return new WaitForSeconds(11.0f);
+        yield return new WaitForSeconds(10.5f);
         StartCoroutine("MoveCam6");
     }
     public IEnumerator MoveCam6()
     {
         iTween.MoveBy(vrCam, iTween.Hash("x", -2.6f, "easeType", iTween.EaseType.easeInOutSine, "time", 5.0f)); // 윗 계단까지 이동
         yield return new WaitForSeconds(6.0f);
-        // 한층 올라감
-        iTween.MoveTo(vrCam, iTween.Hash("position", destination3, "easeType", iTween.EaseType.easeInOutSine, "time", 10.0f));
+        iTween.MoveTo(vrCam, iTween.Hash("position", destination3, "easeType", iTween.EaseType.easeInOutSine, "time", 10.0f));  // 한층 올라감
     }
 
+    public IEnumerator MoveCam7()
+    {
+        iTween.MoveBy(vrCam, iTween.Hash("x", 2.8f, "easeType", iTween.EaseType.easeInOutSine, "time", 5.0f)); // 윗 계단까지 이동
+        yield return new WaitForSeconds(5.0f);
+        iTween.MoveTo(vrCam, iTween.Hash("position", destination4, "easeType", iTween.EaseType.easeInOutSine, "time", 10.0f));  // 한층 올라감
+    }
+
+    public IEnumerator MoveCamExit()
+    {
+        yield return new WaitForSeconds(2.0f);
+        iTween.MoveTo(vrCam, iTween.Hash("position", destination5, "easeType", iTween.EaseType.easeInOutSine, "time", 7.0f));  // 탈출
+    }
 
     public void OnSelected(Transform t)
     {
