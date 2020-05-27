@@ -69,7 +69,7 @@ The ultimate goal is to prevent accidents by maximizing the experience of lab sa
 <br>
 
 ### IV. 소개 영상
-[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/zFU-n18M7nE)
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/jWcsJVVkh8c)
 <br>
 ### V. 결과 영상
 - 2020 . 06 . 05 upload-
