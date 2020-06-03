@@ -1,20 +1,16 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - Buaak
+    - BackButtonLogic
+    - BtnScript
     - ControllerSelection.OVRInputModule
     - ControllerSelection.OVRPointerVisualizer
-    - ControllerSelection.OVRRawRaycaster
     - ControllerSelection.OVRRaycaster
-    - FadeInOutUI
-    - FadeInUI
-    - FadeOutUI1
-    - FadeOutUI2
-    - Interaction
+    - LoginBtn
+    - MyKeyboard
     - ONSPSettings
-    - TriggerForFire
-    - TriggerForFlammable
-    - TriggerForPhone
+    - TalesFromTheRift.CanvasKeyboard
+    - TalesFromTheRift.CanvasKeyboardASCII
     - UIInteraction
     Oculus.VR.Editor.dll:
     - OVRConfig
@@ -39,11 +35,13 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Text
+    - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/Scenes/Lab1-1.unity:
+    Assets/Scenes/Login.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -62,27 +60,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 54
-      Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
-    - Class: 65
-      Script: {instanceID: 0}
-    - Class: 74
+    - Class: 49
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
-    - Class: 90
-      Script: {instanceID: 0}
-    - Class: 95
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
-    - Class: 111
+    - Class: 109
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11336}
@@ -91,52 +79,62 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11508}
     - Class: 114
+      Script: {instanceID: 11546}
+    - Class: 114
       Script: {instanceID: 11570}
     - Class: 114
       Script: {instanceID: 11592}
     - Class: 114
       Script: {instanceID: 11652}
     - Class: 114
-      Script: {instanceID: 12066}
+      Script: {instanceID: 11832}
     - Class: 114
-      Script: {instanceID: 12222}
+      Script: {instanceID: 12068}
     - Class: 114
-      Script: {instanceID: 12254}
+      Script: {instanceID: 12142}
     - Class: 114
-      Script: {instanceID: 12398}
+      Script: {instanceID: 12256}
     - Class: 114
-      Script: {instanceID: 12408}
+      Script: {instanceID: 12306}
     - Class: 114
-      Script: {instanceID: 12654}
+      Script: {instanceID: 12400}
     - Class: 114
-      Script: {instanceID: 12744}
+      Script: {instanceID: 12746}
     - Class: 114
-      Script: {instanceID: 12928}
+      Script: {instanceID: 12930}
     - Class: 114
-      Script: {instanceID: 13346}
+      Script: {instanceID: 13074}
     - Class: 114
-      Script: {instanceID: 13516}
+      Script: {instanceID: 13262}
     - Class: 114
-      Script: {instanceID: 13680}
+      Script: {instanceID: 13270}
     - Class: 114
-      Script: {instanceID: 13684}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13706}
+      Script: {instanceID: 13718}
     - Class: 114
-      Script: {instanceID: 13812}
+      Script: {instanceID: 13742}
     - Class: 114
-      Script: {instanceID: 14228}
+      Script: {instanceID: 13814}
     - Class: 114
-      Script: {instanceID: 14298}
+      Script: {instanceID: 13954}
     - Class: 114
-      Script: {instanceID: 1126774}
+      Script: {instanceID: 14108}
+    - Class: 114
+      Script: {instanceID: 38962}
+    - Class: 114
+      Script: {instanceID: 38964}
+    - Class: 114
+      Script: {instanceID: 166816}
+    - Class: 114
+      Script: {instanceID: 176298}
+    - Class: 114
+      Script: {instanceID: 185232}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
       Script: {instanceID: 0}
     - Class: 128
-      Script: {instanceID: 0}
-    - Class: 136
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -144,21 +142,13 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 198
-      Script: {instanceID: 0}
-    - Class: 199
-      Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 215
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
-      Script: {instanceID: 0}
-    - Class: 225
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -181,8 +171,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
     - Class: 65
@@ -199,8 +187,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
-    - Class: 109
-      Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11336}
     - Class: 114
@@ -214,33 +200,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11652}
     - Class: 114
-      Script: {instanceID: 12066}
+      Script: {instanceID: 12068}
     - Class: 114
-      Script: {instanceID: 12140}
+      Script: {instanceID: 12256}
     - Class: 114
-      Script: {instanceID: 12254}
+      Script: {instanceID: 12400}
     - Class: 114
-      Script: {instanceID: 12304}
+      Script: {instanceID: 12746}
     - Class: 114
-      Script: {instanceID: 12398}
+      Script: {instanceID: 12930}
     - Class: 114
-      Script: {instanceID: 12744}
+      Script: {instanceID: 13718}
     - Class: 114
-      Script: {instanceID: 12928}
-    - Class: 114
-      Script: {instanceID: 13268}
-    - Class: 114
-      Script: {instanceID: 13288}
-    - Class: 114
-      Script: {instanceID: 13716}
-    - Class: 114
-      Script: {instanceID: 13740}
-    - Class: 114
-      Script: {instanceID: 13812}
-    - Class: 114
-      Script: {instanceID: 13952}
-    - Class: 114
-      Script: {instanceID: 14106}
+      Script: {instanceID: 13814}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -642,6 +614,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: OvrAvatarBase
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Buaak
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -2276,12 +2254,102 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
+      Hash: ff11bbfc2b1f10e9da61a8259aefdd24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GazeInputModuleCrosshair
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Buaak
+    className: GazeCrosshairOnOff
+  - hash:
+      serializedVersion: 2
+      Hash: fdec17eee9c183a07c1880bcc70e9717
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ButtonListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToggleKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: cccc543eb45378c34ebd01571b04e9bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CanvasKeyboardEditableButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0136a2b5f1289ef9389994d51992633a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GazeInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CubeListener
+  - hash:
+      serializedVersion: 2
+      Hash: 746a9aa07878c0ae822fec3e055a3de3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TalesFromTheRift
+    className: OpenCanvasKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: 21889d934374e6728924c591f77a7975
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TalesFromTheRift
+    className: CanvasKeyboardASCII
+  - hash:
+      serializedVersion: 2
+      Hash: 81176b82d18c29a6fa5732b77922e239
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TalesFromTheRift
+    className: CanvasKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: cdeff849104f17f27b142a5010062248
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: KeyboardScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: KeyboardDragHandler
+  - hash:
+      serializedVersion: 2
+      Hash: c63db7d64a72b2882cc2e2a1cdffbb2c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShowKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: b88b1eb65911af7b8a4dec25dff1f386
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MyKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: a0d183fb56335c183f59f3d714c21fb9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BtnScript
+  - hash:
+      serializedVersion: 2
+      Hash: 6e4c85e0ef4dd01e52fde9d040d6988f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoginBtn
   platform: 13
   scenePathNames:
+  - Assets/Scenes/Login.unity
   - Assets/Scenes/MainSelect.unity
-  - Assets/Scenes/Lab1-1.unity
   playerPath: C:/platform-tools/test.apk
