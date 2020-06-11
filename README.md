@@ -72,5 +72,4 @@ The ultimate goal is to prevent accidents by maximizing the experience of lab sa
 [![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)]https://youtu.be/7sscHyFxS90
 <br>
 ### V. 결과 영상
-- 2020 . 06 . 05 upload-
-https://youtu.be/3Gb93flUa6o)
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)https://youtu.be/UOy2J7645BY
