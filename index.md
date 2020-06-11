@@ -65,7 +65,9 @@ We develop a **VR lab safety education system** that can reduce the burden of st
 The ultimate goal is to prevent accidents by maximizing the experience of lab safety education to induce students' active learning and enabling practical training tailored to the field.<br>
 
 ### IV. 소개 영상
-[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)]https://youtu.be/7sscHyFxS90<br>
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/7sscHyFxS90)
+<br>
 
 ### V. 결과 영상
-[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)]https://youtu.be/UOy2J7645BY<br>
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/UOy2J7645BY)
+<br>
